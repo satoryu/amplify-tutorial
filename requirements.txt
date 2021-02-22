@@ -1,1 +1,2 @@
 amplify >= 0.4.1
+numpy
